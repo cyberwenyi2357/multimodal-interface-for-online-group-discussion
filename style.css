@@ -1,0 +1,14 @@
+
+html, body {
+  margin: 0;
+}
+#speech {
+  width:400px;
+  height:800px;
+  padding:5px;
+  color:white;
+  background-color:rgba(22, 25, 41,1);
+}
+canvas {
+  display: block;
+}
